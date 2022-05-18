@@ -29,7 +29,7 @@ function traerDatos(){
 			let datos = JSON.parse(this.responseText);
 			// console.log(datos);
 			let res = document.querySelector('#res');
-			// res.innerHTML = '';
+			res.innerHTML = '';
 
 			for(let item of datos){
 				// console.log(item);
