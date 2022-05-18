@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"nombre": "naruto",
+		"skill": "rasengan",
+		"aldea": "hoja"
+	},
+	{
+		"id": 2,
+		"nombre": "sasuki",
+		"skill": "chidori",
+		"aldea": "hoja"
+	},
+	{
+		"id": 3,
+		"nombre": "sakura",
+		"skill": "golpes",
+		"aldea": "hoja"
+	},
+	{
+		"id": 4,
+		"nombre": "madara",
+		"skill": "susanoo",
+		"aldea": "hoja"
+	},
+	{
+		"id": 5,
+		"nombre": "itachi",
+		"skill": "bola fuego",
+		"aldea": "hoja"
+	},
+	{
+		"id": 6,
+		"nombre": "killer bee",
+		"skill": "lariat",
+		"aldea": "nube"
+	},
+	{
+		"id": 7,
+		"nombre": "gaara",
+		"skill": "prision arena",
+		"aldea": "arena"
+	}
+]
